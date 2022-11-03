@@ -5,3 +5,4 @@ YGOMobile to ydk
 **使用方法：**
 将 YGOMobile 分享的卡组代码复制到 mobile.txt 中，运行 ygomobiletoydk ，
 自动生成 ydk 文件
+因文件类型更改，已不能使用
